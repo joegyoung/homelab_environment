@@ -8,4 +8,6 @@ My homelab environment consists of Proxmox Virual hosts, self hosted technitium 
 ## Proxmox Virtual host servers
 
 Proxmox is a hardware virtualization software. It allows deployment and management of virtual machines and containers. It is based on a modified Debian LTS kernel.
-(Intstallation)[proxmox-install]
+
+[Intstallation](proxmox-install)
+
